@@ -1,1 +1,1 @@
-# SimimiChatBot
+# AppChat
